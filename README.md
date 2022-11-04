@@ -14,7 +14,7 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 * Tela de Cadastro da Plataforma DIO com React
 * Tela de Login com Validação usando TypeScript
 
-# Desafios de Código
+# Desafios de Código Básicos
 * Somando Múltiplos
 * FizzBuzz
 * Chamada Recursiva
@@ -22,7 +22,7 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 * Busca Sequencial
 
 
-# Desafios de Código
+# Desafios de Código Intermediários
 * Fatorial Desajeitado
 * Checagem de Palíndromos
 * Quadrados Perfeitos
