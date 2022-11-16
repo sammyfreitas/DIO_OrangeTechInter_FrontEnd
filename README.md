@@ -17,16 +17,16 @@ https://web.dio.me/track/81278323-8916-401b-8446-03118eaff280
 6. Implmementando uma Tela de Login com Validação usando TypeScript
 
 ### DESAFIOS DE CÓDIGO
-1. Dominando Algoritmos Básicos com Desafios de Código JavaScript
-  1.1 Somando Múltiplos
-  1.2 FizzBuzz
-  1.3 Uma chamada recursiva
-  1.4 Os números são iguais
-  1.5 Busca Sequencial
+#### Dominando Algoritmos Básicos com Desafios de Código JavaScript
+1. Somando Múltiplos
+2. FizzBuzz
+3. Uma chamada recursiva
+4. Os números são iguais
+5. Busca Sequencial
 
-2. Dominando Algoritmos Intermediários com Desafios de Código JavaScript
-  2.1 Fatorial Desajeitado
-  2.2 Checagem de Palíndromos
-  2.3 Quadrados Perfeitos
-  2.4 Matriz Par e Ímpar
-  2.5 Validação de Parênteses
+#### Dominando Algoritmos Intermediários com Desafios de Código JavaScript
+1. Fatorial Desajeitado
+2. Checagem de Palíndromos
+3. Quadrados Perfeitos
+4. Matriz Par e Ímpar
+5. Validação de Parênteses
